@@ -37,7 +37,7 @@ PS：如果给出的网站打不开请开启翻墙模式
 2.找出冒泡排序和快速排序的缺点
 
 ### 任务四：开源和合作(需至少五人完成)
-在github上注册一个账号，创建一个仓库，并且把之前任务写的代码pull request到https://github.com/LinFengYnu/2017YNU.git，以pr被接受为完成凭证。(把所有代码放进以自己昵称命名的文件夹，然后pr到2017YNU的language文件夹下对应的语言文件夹下)
+在github上注册一个账号，创建一个仓库，并且把之前任务写的代码pull request到  https://github.com/LinFengYnu/2017YNU.git  ，以pr被接受为完成凭证。(把所有代码放进以自己昵称命名的文件夹，然后pr到2017YNU的language文件夹下对应的语言文件夹下)
 
 相关网站：[廖雪峰git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
