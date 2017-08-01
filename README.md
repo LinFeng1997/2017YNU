@@ -43,4 +43,4 @@ PS：如果给出的网站打不开请开启翻墙模式
 
 >可选:
 1.找一个自己选择语言的开源项目，看看别人的README文件/CHANGELOG文件/COMMIT记录/ISSUE等等
-2.在2017YNU的ISSUE提一个技术问题
+2.在2017YNU的ISSUE提一个技术问题，参考 [如何提出一个高质量的Issue](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
