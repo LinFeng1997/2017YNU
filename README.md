@@ -23,7 +23,7 @@ PS：如果给出的网站打不开请开启翻墙模式
 
 相关学习网站：
 1.C语言：[浙江大学翁老C语言课程](http://study.163.com/curricula/cs.htm)  
-2.Pyhon语言:[廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/  0014316089557264a6b348958f449949df42a6d3a2e542c000)  
+2.Pyhon语言:[廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  
 3.Javascript语言:[Javascript入门](http://www.freecodecamp.cn/challenges/comment-your-javascript-code)  
 4.其他:[Coursera](https://www.coursera.org/)  
 
@@ -43,7 +43,7 @@ PS：如果给出的网站打不开请开启翻墙模式
 
 >可选:
 1.找一个自己选择语言的开源项目，看看别人的README文件/CHANGELOG文件/COMMIT记录/ISSUE等等  
-2.在2017YNU的ISSUE提一个技术问题，参考 [如何提出一个高质量的Issue](https://github.com/ryanhanwu/  How-To-Ask-Questions-The-Smart-Way)
+2.在2017YNU的ISSUE提一个技术问题，参考[如何提出一个高质量的Issue](https://github.com/ryanhanwu/  How-To-Ask-Questions-The-Smart-Way)
 
 ### 任务五：设计先于编码(需至少五人完成)
 
