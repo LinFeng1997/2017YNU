@@ -35,4 +35,3 @@ for i in range(10):
 endtime = time.time()  
 print 'end:%f' % endtime
 print 'total time:%f' % (endtime-starttime) 
-
