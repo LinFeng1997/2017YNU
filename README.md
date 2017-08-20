@@ -98,27 +98,29 @@ PS：如果给出的网站打不开请开启翻墙模式
 2.了解压缩文件使用的加密算法
 
 ### 任务九：实践安全
-以下任务完成一个以上（包括一个）即可
+以下任务完成一个以上（包括一个）即可，
+本项目提供的相关资料，仅供学习研究所用，禁止从事非法活动，仅供测试，所造成的一切后果，与本人无关。
+若造成法律责任，后果自负。
 
-* 使用burpsuite攻击一个其他有弱口令和csrf漏洞的网站，拿到敏感信息
+* 使用burpsuite测试一个其他有弱口令和csrf漏洞的网站，拿到敏感信息
 
 >参考资料：[burpsuite官网](https://support.portswigger.net/customer/portal/articles/1816883-getting-started-with-burp-suite)
 [burpsuite介绍](http://wooyun.jozxing.cc/static/drops/tools-1548.html)
-[一次简单的burpsuite攻击过程](http://jingyan.baidu.com/article/200957619c8739cb0721b4ff.html)
+[一次简单的burpsuite使用过程](http://jingyan.baidu.com/article/200957619c8739cb0721b4ff.html)
 
-* 使用sqlmap攻击一个有sql注入的网站，拿到数据库信息
+* 使用sqlmap测试一个有sql注入的网站，拿到数据库信息
 
 >参考资料：[sqlmap官网](https://sqlmap.org/)
 [sqlmap手册](http://su.xmd5.org/static/drops/tips-143.html)
-[一次简单的sqlmap攻击过程](http://jingyan.baidu.com/article/6766299784768154d51b84fb.html)
+[一次简单的sqlmap使用过程](http://jingyan.baidu.com/article/6766299784768154d51b84fb.html)
 
-* 使用webshell木马攻击一个有上传文件漏洞的网站,控制网站
+* 使用webshell木马测试一个有上传文件漏洞的网站,控制网站
 
 >参考资料：[webshell大全](https://github.com/tennc/webshell)
 [webshell介绍](http://drops.xmd5.com/static/drops/papers-12598.html)
-[一次webshell攻击过程](https://www.secpulse.com/archives/49361.html)
+[一次webshell测试过程](https://www.secpulse.com/archives/49361.html)
 
-* 利用xss漏洞攻击一个网站，散布蠕虫
+* 利用xss漏洞测试一个网站
 
 >参考资料：[xss](https://github.com/tennc/webshell)
 [xss介绍](https://www.secpulse.com/archives/57411.html)
@@ -135,7 +137,7 @@ PS：如果给出的网站打不开请开启翻墙模式
 
 >参考资料：[社会工程学相关资料](https://www.zhihu.com/topic/19596249/hot)
 
-* 使用AVWS扫描器扫描云南大学或者某个感兴趣的网站(必须是有高危漏洞的网站)，分析扫描报告，总结成中文
+* 使用AVWS扫描器扫描云南大学或者某个感兴趣的网站(必须是有高危漏洞的网站)，分析扫描报告，用中文写一篇总结
 
 >参考资料：
 [AVWS教程](http://www.ichunqiu.com/course/50755)
